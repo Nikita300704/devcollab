@@ -96,4 +96,8 @@ Four tables: `rooms` (document state, language), `messages`, `room_members` and 
 - Any signed-in user who knows a room link can join it (no private rooms or invitations yet).
 - Rooms are not distributed across multiple server instances (a Redis adapter would be needed to scale out).
 - Sandboxed code execution.
+<<<<<<< HEAD
 - Automated tests.
+=======
+- Automated tests.
+>>>>>>> 1ba44ee (Prepare for deployment,add README)
