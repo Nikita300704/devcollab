@@ -3,6 +3,7 @@
 A real-time collaborative code editor. Create a room, share the link, and write code together with live cursors, built-in team chat and (locally) multi-language code execution.
 
 **Live demo:** __
+![DevCollab screenshot](docsscreenshot.png)
 
 ## Features
 
